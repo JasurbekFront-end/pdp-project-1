@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <div className="font-poppins fixed top-0 left-0 z-10 flex h-[70px] w-full items-center border-b border-gray-400 bg-white px-8">
       <div className="flex-1">
-        <h1 className="text-[20px] font-bold text-green-500">PDP Academy</h1>
+        <h1 className="text-[20px] font-bold text-green-500">Raqamli fan</h1>
       </div>
 
       <div className="flex flex-1 justify-center gap-6">
